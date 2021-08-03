@@ -10,6 +10,7 @@
 :root {
     --color-primario: rgb(26, 16, 16);
     --color-secundario: rgb(214, 213, 213);
+    --color-terciario: rgb(247, 241, 241);
 }
 
 html, 
@@ -46,8 +47,26 @@ body {
 
 #contenedor-datos h2 {
     font-size: 1.1rem;
+    margin-top: 1rem;
 }
 
 #contenedor-mapa {
     width: 100%;
+}
+
+.elementos {
+    cursor: pointer;
+    list-style: none;
+    margin-left: 1rem;
+    margin-top: 0.5rem;
+}
+
+.elementos:hover {
+    font-weight: bold;
+}
+
+.elementos-contenido {
+    background-color: var(--color-terciario);
+    padding: 1rem;
+    border-radius: 0.5rem;
 }
