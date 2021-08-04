@@ -13,15 +13,15 @@ const DATOS = {
           },
           {
             titulo: "Escuela Manejo Universal",
-            img: "/img/escuela_manejo_universal.jpg",
+            img: "img/escuela_manejo_universal.jpg",
           },
           {
             titulo: "Panamericana Sur",
-            img: "/img/panamericana_sur.png",
+            img: "img/panamericana_sur.png",
           },
           {
             titulo: "Touring",
-            img: "/img/turicamp.png",
+            img: "img/turicamp.png",
           },
         ],
       },
@@ -32,11 +32,11 @@ const DATOS = {
         imagenes: [
           {
             titulo: "Grifo el Álamo",
-            img: "/img/grifo_el_alamo.png",
+            img: "img/grifo_el_alamo.png",
           },
           {
             titulo: "Restaurante Señor de Luren",
-            img: "/img/restaurant_senior_luren.png",
+            img: "img/restaurant_senior_luren.png",
           },
         ],
       },
@@ -47,15 +47,15 @@ const DATOS = {
         imagenes: [
           {
             titulo: "Puente peatonal Lanavilla",
-            img: "/img/puente_peatonal_lanavilla.png",
+            img: "img/puente_peatonal_lanavilla.png",
           },
           {
             titulo: "Asociación Santa Rosa",
-            img: "/img/asociacion_santa_rosa_villa.png",
+            img: "img/asociacion_santa_rosa_villa.png",
           },
           {
             titulo: "Práctica Manejo",
-            img: "/img/practica_manejo.png",
+            img: "img/practica_manejo.png",
           },
         ],
       },
@@ -66,15 +66,15 @@ const DATOS = {
         imagenes: [
           {
             titulo: "Club Wash Vip",
-            img: "/img/wash_club_vip.png",
+            img: "img/wash_club_vip.png",
           },
           {
             titulo: "Adel Construcciones SAC",
-            img: "/img/adel_construcciones.png",
+            img: "img/adel_construcciones.png",
           },
           {
             titulo: "Artesanías Salcedo",
-            img: "/img/artesanias_salcedo.png",
+            img: "img/artesanias_salcedo.png",
           },
         ],
       },
@@ -85,23 +85,23 @@ const DATOS = {
         imagenes: [
           {
             titulo: "Avenida María Reiche",
-            img: "/img/avenida_maria_reiche.png",
+            img: "img/avenida_maria_reiche.png",
           },
           {
             titulo: "Avenida San Martín",
-            img: "/img/avenida_san_martin.png",
+            img: "img/avenida_san_martin.png",
           },
           {
             titulo: "DEMARCA SAC",
-            img: "/img/demarca_sac.png",
+            img: "img/demarca_sac.png",
           },
           {
             titulo: "Grifo PECSA",
-            img: "/img/grifo_pecsa.png",
+            img: "img/grifo_pecsa.png",
           },
           {
             titulo: "Las Brisas",
-            img: "/img/las_brisas.png",
+            img: "img/las_brisas.png",
           },
         ],
       },
@@ -117,11 +117,11 @@ const DATOS = {
         imagenes: [
           {
             titulo: "Asociación Llanavilla",
-            img: "/img/sismo8_img1.png",
+            img: "img/sismo8_img1.png",
           },
           {
             titulo: "Litoral del distrito",
-            img: "/img/sismo8_img2.png",
+            img: "img/sismo8_img2.png",
           },
           {
             titulo: "Conchán",
@@ -136,23 +136,23 @@ const DATOS = {
         imagenes: [
           {
             titulo: "Refinería Conchán",
-            img: "/img/sismo9_img1.png",
+            img: "img/sismo9_img1.png",
           },
           {
             titulo: "Héroes del Cenepa",
-            img: "/img/sismo9_img2.png",
+            img: "img/sismo9_img2.png",
           },
           {
             titulo: "Valle del Jesús",
-            img: "/img/sismo9_img3.png",
+            img: "img/sismo9_img3.png",
           },
           {
             titulo: "Asociación Mamacona",
-            img: "/img/sismo9_img4.png",
+            img: "img/sismo9_img4.png",
           },
           {
             titulo: "Parque del recuerdo",
-            img: "/img/sismo9_img5.png",
+            img: "img/sismo9_img5.png",
           },
         ],
       },
@@ -168,7 +168,7 @@ const DATOS = {
         imagenes: [
           {
             titulo: "Refugio 1",
-            img: "/img/refugio_1.png",
+            img: "img/refugio_1.png",
           },
         ],
       },
@@ -179,11 +179,11 @@ const DATOS = {
         imagenes: [
           {
             titulo: "Refugio 2",
-            img: "/img/refugio_2.png",
+            img: "img/refugio_2.png",
           },
           {
             titulo: "Ruta Refugio 2",
-            img: "/img/ruta_refugio_2.png",
+            img: "img/ruta_refugio_2.png",
           },
         ],
       },
