@@ -9,7 +9,7 @@ const DATOS = {
         imagenes: [
           {
             titulo: "Circuito Jorgito",
-            img: "/img/circuito_jorgito.png",
+            img: "img/circuito_jorgito.png",
           },
           {
             titulo: "Escuela Manejo Universal",
